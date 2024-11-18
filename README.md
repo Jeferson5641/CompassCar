@@ -70,7 +70,7 @@ const db = mysql.createPool({
 ## Clone o repositório:
 
 ```
-git clone https://github.com/seuusuario/compasscar.git
+git clone https://github.com/Jeferson5641/compasscar.git
 ```
 
 ## Navegue até o diretório do projeto:
